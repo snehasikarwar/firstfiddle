@@ -1,0 +1,130 @@
+.navbar-nav li{
+  padding: 0 10px;
+}
+.navbar-nav li a{
+  color: #fff!important;
+  font-weight: 600;
+  font-size: 16px;
+}
+.moblogo{
+  display: none;
+}
+.ff22{
+  font-size: 70px;
+  font-family: prague;
+  color: white;
+  margin-top: -378px;
+}
+.c1{
+  margin-top: 300px;
+}
+.a1{
+  padding-top: 20px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+}
+.c{
+  line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: justify;
+}
+.d{
+  margin-top: 30px;
+    margin-bottom: 80px;
+}
+.img1{
+    width: 75%;
+}
+.ff21{
+    font-family: prague;
+    color: white;
+    font-size: 50px;
+    margin-top: -219px;
+    text-align: center;
+    }
+.e{
+        margin-top: -170px;
+    font-size: 16px;
+    line-height: 40px;
+     letter-spacing: 1px;
+     color: white;
+     text-align: center;
+}
+.f{
+    text-align: center;
+    color: white;
+    background-color: #fbac29;
+        margin-top: -79px;
+    height: 36px;
+    width: 141px;
+    margin-left: 576px;
+}
+.g{
+    width: 265px;
+}
+.r1{
+    margin-top: 15px;
+}
+.h{
+    text-align: center;
+    color: white;
+    background-color: #fbac29;
+        margin-top: -69px;
+    height: 36px;
+    width: 141px;
+    margin-left: 576px;
+}
+.r2{
+    background-color: #020306f0;
+    margin-top: 1px;
+}
+.i{
+        padding-top: 50px;
+    width: 80%;
+    padding-left: 112px;
+    padding-bottom: 16px;
+}
+@media(max-width: 600px){
+  .moblogo{
+    display: block;
+  }
+  .b{
+    display: none;
+  }
+  .navbar{
+    background-color: #fbaa1a;
+  }
+  .ff22{
+    margin-top: -66px;
+    font-size: 24px;
+    font-family: prague;
+  }
+  .r1{
+        margin-top: 15px;
+    }
+    .ff21{
+        font-size: 26px;
+    margin-top: -256px;
+    }
+    .e{
+        margin-top: -221px;
+    font-size: 14px;
+    line-height: 24px;
+    }
+    .f{
+        margin-left: 111px;
+        margin-top: -95px;
+    }
+    .c1{
+      margin-top: 43px;
+    }
+    .g{
+        padding: 7px;
+    }
+    .h{
+         margin-left: 111px;
+        margin-top: -62px;
+    }
+}
